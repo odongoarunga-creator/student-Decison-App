@@ -1,13 +1,27 @@
 body{
 font-family: Arial, Helvetica, sans-serif;
 padding: 20px;
-
+background-color: yellow;
 }
+
 button {
 padding: 10px;   
 font-size: 16px;
 }
+
 #resultText{
 font-weight: bold;
 margin-top: 15px;
+.backgroundColor
+background-color:yellow;
 }
+
+img{
+width: 590px;
+height: 600px;
+padding-left: 0px;
+padding-right: 50px;
+padding-bottom: 0px;
+}
+
+
